@@ -1,0 +1,4 @@
+I'd heard about a stat on TV that listed which NFL teams had the most wins since the start of the 
+Free Agency era (the 1993 season) but I couldn't find the stat online. Thankfully nfl.com has stats
+going all the way back to 1920. I wrote the script to grab the pages with nokogiri for each year 
+of wins/losses/ties from nfl.com and sum those stats up for each team.
